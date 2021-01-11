@@ -1,0 +1,37 @@
+.panda-carousel, .carousel-item{
+    background-color: #FEEAE9;
+    border-radius: 16px;
+    margin-top: 5em;
+}
+.price{
+    color: #ff4d94;
+}
+.buy-btn{
+    background-color: #FF4D94;
+    border: 0;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 22px;
+}
+.categories img{
+    width: 100px;
+}
+.card-1, .card-2, .card-3 {
+    border: none;
+    background-color: white;
+    border-radius: 20px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.new-btn{
+    border: none;
+    background-color: #FF4C93;
+    color: white;
+    padding: 8px 25px;
+    margin-bottom: 10px;
+}
+.sub-area{
+    margin-top: 3em;
+}
